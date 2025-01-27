@@ -12,3 +12,5 @@
    `source ./venv/bin/active`
 5. Navigate to src dir and install dependancies
    `python3 -m pip install -r requirements.txt`
+6. Run it. See flags with -h flag
+   `python3 __main__.py -h`
