@@ -1,6 +1,7 @@
-HOW TO
+<h1>HOW TO</h1>
 
 *Make sure you have python3 installed*
+
 *This guide is only for UNIX like operating systems*
 
 1. Download repo
