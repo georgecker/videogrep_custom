@@ -1,8 +1,11 @@
-<h1>HOW TO</h1>
+# What this is
+This is a custom version of the videogrep tool by Sam Lavigne. The only difference is that mine does support the search type 'ordered' which allows you to create a super cut with a single use of the provided phrase and its order.
 
-*Make sure you have python3 installed*
+[The original repo](https://github.com/antiboredom/videogrep)
 
-*This guide is only for UNIX like operating systems*
+## How to
+### Make sure you have python3 installed
+### This guide is only for UNIX like operating systems
 
 1. Download repo
 2. Open repo in terminal
